@@ -226,4 +226,4 @@ AIMP is available as a full free version with all features and updates included.
 Experience the ultimate audio player with AIMP. **Download AIMP Free** now and transform your music experience!
 
 ---
-**Last updated:** 2026-11-11 18:21:00 UTC
+**Last updated:** 2026-11-12 01:17:16 UTC
